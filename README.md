@@ -53,7 +53,6 @@ I'm a pre final year student pursuing Bachelors's in Computer Science & Engineer
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="">Here</a>.
 	</ul>	
 </details>
 
