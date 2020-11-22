@@ -15,7 +15,7 @@ I'm a pre final year student pursuing Bachelors's in Computer Science & Engineer
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with AI, Machine Learning.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/idevesh).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/idevesh/idevesh/issues/2)! I am happy to help.
