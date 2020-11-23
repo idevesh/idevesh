@@ -18,10 +18,10 @@ I'm a pre final year student pursuing Bachelors's in Computer Science & Engineer
 - 🛠 &nbsp; I’m currently working with AI, Machine Learning.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/idevesh).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/idevesh/idevesh/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/idevesh/idevesh/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: deveshps107@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/idevesh/idevesh/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/idevesh/idevesh/main/resume.pdf).
 
 ### My Absolute Favorites:
 
