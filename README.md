@@ -47,7 +47,7 @@ I'm a pre-final year student pursuing Bachelors in Computer Science & Engineerin
   <br />
 	**If you enjoy my Projects, please consider <a href="https://www.buymeacoffee.com/idevesh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 130px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
  to continue developing and maintaining it.**
-	
+	<br/>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04 & Windows 10</li>
