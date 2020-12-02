@@ -63,7 +63,7 @@ I'm a pre-final year student pursuing Bachelors in Computer Science & Engineerin
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories! 
+### Show some ❤️ by starring some of the repositories 😀! 
 
 
 </div>
