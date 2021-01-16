@@ -41,8 +41,6 @@ I'm a pre-final year student pursuing Bachelors in Computer Science & Engineerin
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-[![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=idevesh&show_icons=true)](https://github.com/idevesh)
  
  <!-- Social buttons for idevesh -->
  <table width="100%">
@@ -84,7 +82,11 @@ I'm a pre-final year student pursuing Bachelors in Computer Science & Engineerin
 </td>
 </tr>
 </table>
- 
+
+ [![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=idevesh&show_icons=true)](https://github.com/idevesh)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idevesh)](https://github.com/idevesh)
+
+
 <details>	
   <br />
 	**If you enjoy my Projects, please consider <a href="https://www.buymeacoffee.com/idevesh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 130px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
