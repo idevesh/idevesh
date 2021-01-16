@@ -1,9 +1,9 @@
 ---
 name: Friends Entry
 about: This issue is about book.
-title: ''
-labels: ''
-assignees: ''
+title: Message to devesh
+labels: Friends Book Entry
+assignees: idevesh
 
 ---
 
