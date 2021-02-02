@@ -46,7 +46,7 @@ I'm a pre-final year student pursuing Bachelors in Computer Science & Engineerin
  <table width="100%">
 <tr>
 <td align="center">
-<a href="https:/idevesh.github.io/">
+<a href="https://idevesh.github.io/">
 <strong>Visit my personal website </strong>
 <br />
 <br />
