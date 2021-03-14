@@ -97,7 +97,7 @@ I'm a pre-final year student pursuing Bachelors in Computer Science & Engineerin
   	    <li><b>OS:</b> Ubuntu 20.04 & Windows 10</li>
 	    <li><b>Laptop: </b> Acer Nitro 5 (i5) (GTX 1650)</li>
   	    <li><b>Browser: </b> Microsoft Edge & Firefox</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	    <li><b>Code Editor:</b> VSCode, Notepad - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
 	</ul>	
