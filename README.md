@@ -64,7 +64,7 @@ I'm a pre-final year student pursuing Bachelors in Computer Science & Engineerin
 </td>
 <td align="center">
 <a href="https://github.com/idevesh/idevesh/issues/new?assignees=idevesh&labels=Friends+Entry&template=Friends-entry.md&title=New+Entry+by+Name">
-<strong>Sign my guest book</strong>
+<strong>Create Issue</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
