@@ -21,7 +21,7 @@ I'm a pre-final year student pursuing Bachelors in Computer Science & Engineerin
 - 💬 &nbsp; Ask me about anything [here](https://github.com/idevesh/idevesh/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: deveshps107@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/idevesh/idevesh/main/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://idevesh.in/assets/Devesh_Pratap_Singh_Resume.pdf).
 
 ### My Absolute Favorites:
 
