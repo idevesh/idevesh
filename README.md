@@ -20,7 +20,7 @@ I'm a Graduate in Computer Science & Engineering 🎓 from Anand Engineering Col
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/idevesh).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/idevesh/idevesh/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: devesh@idevesh.in
+- 📫 &nbsp; How to reach me: idevesh.work@outlook.com
 - 📝 &nbsp; Checkout my [Resume](https://idevesh.in/assets/Devesh_Pratap_Singh_Resume.pdf).
 
 ### My Absolute Favorites:
